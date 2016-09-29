@@ -1,6 +1,7 @@
 <html>
 <body>
 <form name='test' action='#' method='post'>
+Name: <input type='text' name='name'>
 Age: <input type='text' name='age'>
 <input type='submit'>
 </form>
